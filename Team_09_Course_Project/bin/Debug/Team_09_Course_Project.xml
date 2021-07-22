@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Team_09_Course_Project
+</name>
+</assembly>
+<members>
+<member name="T:Team_09_Course_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Team_09_Course_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Team_09_Course_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_blocksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_mobsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_typesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biomesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.blocksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.brewing_recipiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.itemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_aggressionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_breeding_itemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_item_dropsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_typesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mobsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_blocksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_mobsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_typesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biomesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.blocksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.brewing_recipiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.itemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_aggressionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_breeding_itemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_item_dropsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_typesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mobsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_blocksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_mobsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biome_typesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.biomesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.blocksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.brewing_recipiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.itemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_aggressionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_breeding_itemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_item_dropsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mob_typesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSet.mobsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.biome_blocksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.biome_mobsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.biome_typesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.biomesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.blocksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.brewing_recipiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.itemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.mob_aggressionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.mob_breeding_itemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.mob_item_dropsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.mob_typesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.mobsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Team_09_Course_Project.team_09DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Team_09_Course_Project.team_09DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Team_09_Course_Project.team_09DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager.UpdateAll(Team_09_Course_Project.team_09DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Team_09_Course_Project.team_09DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
